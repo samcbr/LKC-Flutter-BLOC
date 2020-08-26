@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213197570388",
+    "firebase_url": "https://pizzaria-1322b.firebaseio.com",
+    "project_id": "pizzaria-1322b",
+    "storage_bucket": "pizzaria-1322b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213197570388:android:816a20df59cc8f61b588c1",
+        "android_client_info": {
+          "package_name": "com.example.lkc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213197570388-3ifkmv9pjfei809vk7v33l35vvte3bbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNS7Xq3zZvOMiBtqziTNzdSMD-HtcG5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213197570388-3ifkmv9pjfei809vk7v33l35vvte3bbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
