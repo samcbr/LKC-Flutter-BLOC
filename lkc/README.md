@@ -1,6 +1,6 @@
 # lkc
 
-A new Flutter project.
+This project is a basic implementation of a hybrid mobile application for e-commerce built on Flutter framework and using Google Firebase as back end . The mobile application code is built by following BLOC pattern architecture.
 
 ## Getting Started
 
